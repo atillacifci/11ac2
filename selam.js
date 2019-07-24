@@ -104,6 +104,8 @@ $('#bg-image').backstretch([
 , "https://i.hizliresim.com/AOnnPz.jpg "
 , "https://i.hizliresim.com/M1oobk.jpg "
 , "https://i.hizliresim.com/QPvv0v.png "
+, "https://i.hizliresim.com/dL88E7.jpg "
+, "https://i.hizliresim.com/00llWL.jpg"
 
 ], {duration: 7000, fade: 500});
 
